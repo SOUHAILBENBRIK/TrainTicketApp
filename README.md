@@ -1,12 +1,13 @@
-# SellTrainTicketApp
+# Train Ticket Booking App
 
-Welcome to my latest Flutter UI project designed for selling train tickets effortlessly! 🚆
+Welcome to our Train Ticket Booking App, where you can easily purchase train tickets! 🚆
+
+## App Overview
+
+Our Train Ticket Booking App is a user-friendly Flutter application that simplifies the process of buying train tickets. We have designed it to ensure a seamless and efficient ticket purchasing experience for users.
+
 
 Follow me on Instagram: [@codingwithsouhail](https://www.instagram.com/codingwithsouhail/)
-
-## Project Overview
-
-This Flutter project takes train ticket booking to the next level by allowing users to sell tickets. The mesmerizing Parallax Effect enhances the user experience, making it easy and engaging.
 
 ## Screenshots
 
