@@ -11,7 +11,7 @@ Follow me on Instagram: [@codingwithsouhail](https://www.instagram.com/codingwit
 
 ## Screenshots
 
-![Screenshot](https://github.com/SOUHAILBENBRIK/TrainTicketApp/blob/master/assets/images/Screenshot.png)
+![Screenshot](https://github.com/SOUHAILBENBRIK/TrainTicketApp/blob/master/assets/images/Screenshot.PNG)
 
 ## Connect with Me
 
